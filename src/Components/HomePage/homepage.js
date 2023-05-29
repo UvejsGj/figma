@@ -9,6 +9,10 @@ import kitchen from "../Foto/kitchen.png"
 import bedroom from "../Foto/bedroom.png"
 import livingroom from "../Foto/livingroom.png"
 import office from "../Foto/office.png"
+import dining from "../Foto/dining.png"
+import table from "../Foto/table.png"
+import whitetable from "../Foto/whitetable.png"
+import woodtable from "../Foto/woodtable.png"
 
 function HomePage() {
     return(
@@ -55,7 +59,7 @@ function HomePage() {
                     <h1 className="easy"> 3 easy steps </h1>
                     <h1 className="explore"> Explore </h1>
                     <p className="more"> Explore more than just modular design ideas with our experts. </p>
-                    <h1 className="design"> Design  </h1>
+                    <h1 className="design1"> Design  </h1>
                     <p className="with"> Complete the designs with painting, flooring and other decor solutions </p>
                     <h1 className="movein"> Move-in </h1>
                     <p className="move"> Move in with ease, with our hassle-free civil work and installation services. </p>
@@ -74,9 +78,18 @@ function HomePage() {
                         <img className="office" src={office} />
                         <p className="officep"> Home Office </p>
 
-                        <p></p>
+                        <p className="lorem"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla </p>
                     </div>
             </div>
+
+            <div className="ourprojects">
+                <div className="images3">
+                    <img className="dining" src={dining} />
+                    <img className="table" src={table} />
+                    <img className="whitetable" src={whitetable} />
+                    <img className="woodtable" src={woodtable} />
+                </div>
+            </div>                                                                                                    
 
         </>
     )
