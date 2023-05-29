@@ -1,0 +1,426 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+body {
+  overflow-x: hidden;
+}
+
+.topnav {
+  color: #451a64;
+  background: #f8f8f8;
+  display: flex;
+  position: absolute;
+  width: 2194px;
+  height: 369px;
+}
+
+.logo {
+  position: absolute;
+  left: 57px;
+  top: 37px;
+}
+
+.h3 {
+  position: relative;
+  margin: 50px;
+  left: 1300px;
+}
+
+.nav {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  left: 630px;
+  top: 186px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+ul li {
+  position: relative;
+  margin-right: 100px;
+  left: 10px;
+}
+
+.couch {
+  position: absolute;
+  width: 1090px;
+  height: 613px;
+  left: -946px;
+  top: 22px;
+}
+
+.get {
+  position: relative;
+}
+
+.in {
+  position: relative;
+  color: #241330;
+}
+
+.home {
+  position: absolute;
+  top: 400px;
+  left: 946px;
+}
+
+.speak {
+  position: absolute;
+  width: 430px;
+  left: 300px;
+  top: 250px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #ffffff;
+  height: 96px;
+  background: #4b2a63;
+}
+
+.smalldiv {
+  font-family: "Poppins";
+  position: absolute;
+  width: 997px;
+  height: 404px;
+  left: 42px;
+  top: 147px;
+  padding: 50px;
+  text-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.82);
+}
+
+.why {
+  position: absolute;
+  width: 340px;
+  height: 54px;
+  left: 790px;
+  top: 1096px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #000000;
+}
+
+.image {
+  position: absolute;
+}
+
+.images {
+  position: absolute;
+  display: flex;
+  margin-left: 500px;
+  margin-top: 1300px;
+}
+
+.calendar {
+  position: absolute;
+  margin-left: 40px;
+}
+
+.house {
+  position: absolute;
+  margin-left: 440px;
+}
+
+.badge {
+  position: absolute;
+  margin-left: 840px;
+}
+
+.days {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  margin-top: 100px;
+  color: #000000;
+}
+
+.happy {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin-top: 100px;
+  margin-left: 266px;
+  text-align: center;
+  color: #000000;
+}
+
+.design {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 286px;
+  color: #000000;
+}
+
+.sofa {
+  position: absolute;
+  width: 1386px;
+  height: 804px;
+  left: 534px;
+  top: 1508px;
+}
+
+.outlinediv {
+  position: absolute;
+  width: 898px;
+  height: 808px;
+  left: -76px;
+  top: 1566px;
+
+  background: rgba(255, 255, 255, 0.82);
+}
+
+.make {
+  position: absolute;
+  width: 501px;
+  height: 54px;
+  left: 179px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #241330;
+}
+
+.easy {
+  position: absolute;
+  width: 301px;
+  height: 72px;
+  left: 279px;
+  top: 50px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: center;
+  color: #241330;
+}
+
+.explore {
+  position: absolute;
+  width: 133px;
+  height: 54px;
+  left: 346px;
+  top: 150px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  /* identical to box height */
+
+  color: #4b2a63;
+}
+
+.more {
+  position: absolute;
+  width: 348px;
+  height: 54px;
+  left: 237px;
+  top: 231px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+.design {
+  position: absolute;
+  width: 126px;
+  height: 54px;
+  left: 65px;
+  top: 252px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  color: #4b2a63;
+}
+
+.with {
+  position: absolute;
+  width: 397px;
+  height: 54px;
+  left: 213px;
+  top: 433px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+.movein {
+  position: absolute;
+  width: 154px;
+  height: 54px;
+  left: 334px;
+  top: 505px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  color: #4b2a63;
+}
+
+.move {
+  position: absolute;
+  width: 439px;
+  height: 54px;
+  left: 192px;
+  top: 570px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.whatwedo {
+  position: absolute;
+  width: 235px;
+  height: 54px;
+  left: 843px;
+  top: 2555px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  color: #000000;
+}
+
+.images2 {
+  display: flex;
+  position: absolute;
+  margin-top: 2700px;
+  margin-left: 270px;
+}
+
+.what {
+  width: 1000px;
+}
+
+.kitchen {
+  position: absolute;
+  left: 100px;
+}
+
+.bedroom {
+  position: absolute;
+  left: 400px;
+}
+
+.livingroom {
+  position: absolute;
+  left: 700px;
+}
+
+.office {
+  position: absolute;
+  left: 1000px;
+}
+
+.kitchenp {
+  position: absolute;
+  width: 239px;
+  height: 43px;
+  left: 120px;
+  top: 342px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #4b2a63;
+}
+
+.bedroomp {
+  position: absolute;
+  width: 133px;
+  height: 43px;
+  left: 470px;
+  top: 342px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #4b2a63;
+}
+
+.livingp {
+  position: absolute;
+  width: 170px;
+  height: 43px;
+  left: 760px;
+  top: 342px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #4b2a63;
+}
+
+.officep {
+  position: absolute;
+  width: 173px;
+  height: 43px;
+  left: 1060px;
+  top: 342px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #4b2a63;
+}
