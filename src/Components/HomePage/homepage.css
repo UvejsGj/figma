@@ -440,7 +440,7 @@ ul li {
   color: #000000;
 }
 
-.images3{
+.images3 {
   position: absolute;
   margin-top: 3500px;
   margin-left: 50px;
@@ -460,11 +460,203 @@ ul li {
 
 .table {
   position: absolute;
-  margin-left: 400px
+  margin-left: 400px;
 }
 
 .whitetable {
   position: absolute;
   margin-left: 403px;
   margin-top: 220px;
+}
+
+.whitebox {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.75);
+  width: 1000px;
+  top: 3550px;
+  left: 700px;
+  height: 500px;
+}
+
+.ourprojectsh {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #241330;
+}
+
+.loremp {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+}
+
+.magnap {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+.viewall {
+  width: 270px;
+  height: 80px;
+  background: #4b2a63;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.blogs {
+  position: absolute;
+  width: 99px;
+  height: 54px;
+  left: 140px;
+  top: 4215px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #241330;
+}
+
+.blogimages {
+  position: absolute;
+  display: flex;
+  width: 329.98px;
+  height: 333px;
+  top: 4427px;
+  left: 90px;
+  border-radius: 10px;
+}
+
+.modernroom {
+  position: absolute;
+  margin-left: 5px;
+}
+
+.garden {
+  position: absolute;
+  margin-left: 380px;
+}
+
+.greytable {
+  position: absolute;
+  margin-left: 760px;
+}
+
+.guestroom {
+  position: absolute;
+  margin-left: 1140px;
+}
+
+.hallway {
+  position: absolute;
+  margin-left: 1550px;
+}
+
+.modernh {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  left: 75px;
+  top: 346px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+
+.exteriorh {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  left: 450px;
+  top: 346px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+
+.greyh {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  left: 830px;
+  top: 346px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+
+.plantationh {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  left: 1210px;
+  top: 346px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+
+.roleh {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  left: 1610px;
+  top: 346px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+
+.viewall2 {
+  position: absolute;
+  width: 270px;
+  height: 80px;
+  left: 730px;
+  top: 546px;
+  background: #4b2a63;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  color: #ffffff;
 }

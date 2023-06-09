@@ -13,6 +13,11 @@ import dining from "../Foto/dining.png"
 import table from "../Foto/table.png"
 import whitetable from "../Foto/whitetable.png"
 import woodtable from "../Foto/woodtable.png"
+import modernroom from "../Foto/modernroom.png"
+import garden from "../Foto/garden.png"
+import greytable from "../Foto/greytable.png"
+import guestroom from "../Foto/guest.png"
+import hallway from "../Foto/hallway.png"
 
 function HomePage() {
     return(
@@ -89,7 +94,29 @@ function HomePage() {
                     <img className="whitetable" src={whitetable} />
                     <img className="woodtable" src={woodtable} />
                 </div>
-            </div>                                                                                                    
+                <div className="whitebox">
+                    <h1 className="ourprojectsh"> Our Projects </h1>
+                    <p className="loremp"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla </p>
+                    <p className="magnap">  magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla </p>
+                    <button className="viewall"> View all </button>
+                </div>
+            </div>    
+
+            <div>
+                <h1 className="blogs"> Blogs </h1>
+                <div className="blogimages">
+                    <img className="modernroom" src={modernroom} /> <h1 className="modernh"> Modern Room </h1>
+                    <img className="garden" src={garden} /> <h1 className="exteriorh"> Exterior Project </h1>
+                    <img className="greytable" src={greytable} /> <h1 className="greyh"> Grey Beauty </h1>
+                    <img className="guestroom" src={guestroom} /> <h1 className="plantationh"> Plantation interior </h1>
+                    <img className="hallway" src={hallway} />  <h1 className="roleh"> Role of furnitures </h1>
+                    <button className="viewall2"> View all </button>
+                </div>
+            </div>                                                                                                
+
+            <div>
+                <h1> Our Interior Design Products </h1>
+            </div>
 
         </>
     )
