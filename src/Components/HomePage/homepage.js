@@ -18,6 +18,14 @@ import garden from "../Foto/garden.png"
 import greytable from "../Foto/greytable.png"
 import guestroom from "../Foto/guest.png"
 import hallway from "../Foto/hallway.png"
+import shelf from "../Foto/shelf.png"
+import furniture from "../Foto/furniture.png"
+import shelf2 from "../Foto/shelf2.png"
+import shelf3 from "../Foto/shelf3.png"
+import tvstand from "../Foto/tvstand.png"
+import diningtable from "../Foto/diningtable.png"
+import japan from "../Foto/japan.png"
+import profile from "../Foto/profile.png"
 
 function HomePage() {
     return(
@@ -116,6 +124,35 @@ function HomePage() {
 
             <div>
                 <h1> Our Interior Design Products </h1>
+                <div className="shelfimages">
+                <img className="shelf" src={shelf}/>
+                <img className="furniture" src={furniture}/>
+                <img className="diningtable" src={diningtable}/>
+                <img className="tvstand" src={tvstand}/>
+                <img className="shelf2" src={shelf2}/>
+                <img className="shelf3" src={shelf3}/>
+                </div>
+                <p className="lorem1"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, 
+purus sit amet luctus venenatis, lectus magna fringilla urna,
+ porttitor rhoncus dolor purus non enim </p>
+                <button className="viewall3"> View all </button>
+            </div>
+
+            <div>
+                <h1 className="happy2"> Our Happy Costumers </h1>
+                <p className="lorem4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet 
+luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim </p>
+                <img className="japan" src={japan } />
+                <div className="whitediv"> 
+                    <img className="profile" src={profile} />
+                    <p className="japanp"> Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor </p>
+                    <h1 className="jeo"> -Jeo Stanlee</h1>
+                </div>
+            </div>
+
+            <div>
+                <h1 className="letalk"> Let talk about ypur Dream home </h1>
+                <input type="text" />
             </div>
 
         </>

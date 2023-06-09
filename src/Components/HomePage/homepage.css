@@ -660,3 +660,182 @@ ul li {
   line-height: 36px;
   color: #ffffff;
 }
+
+.shelfimages {
+  position: arrlute;
+  margin-top: 5100px;
+  margin-left: 120px;
+}
+
+.shelf {
+  position: absolute;
+  width: 318px;
+  height: 330px;
+  margin-left: -850px;
+}
+
+.furniture {
+  position: absolute;
+  margin-left: -850px;
+  margin-top: 350px;
+  width: 318px;
+  height: 330px;
+}
+
+.diningtable {
+  position: absolute;
+  margin-left: -500px;
+  width: 452px;
+  height: 676px;
+}
+
+.tvstand {
+  position: absolute;
+  width: 330px;
+  height: 331px;
+}
+
+.shelf2 {
+  position: absolute;
+  margin-top: 350px;
+  width: 330px;
+  height: 331px;
+}
+
+.shelf3 {
+  margin-left: 380px;
+  width: 451px;
+  height: 676px;
+  position: absolute;
+}
+
+.lorem1 {
+  width: 611px;
+  position: absolute;
+  height: 81px;
+  left: 654px;
+  top: 5976px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+.viewall3 {
+  width: 270px;
+  margin-top: 1000px;
+  height: 80px;
+  background: #4b2a63;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.happy2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #241330;
+}
+
+.lorem4 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+.japan {
+  position: absolute;
+  width: 1228px;
+  height: 536px;
+  left: 395px;
+  top: 6562px;
+}
+
+.whitediv {
+  position: absolute;
+  width: 738px;
+  height: 250px;
+  left: 651px;
+  flex-direction: column;
+  top: 6909px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  box-shadow: 0px 4px 59px 9px rgba(0, 0, 0, 0.05);
+}
+
+.japanp {
+  width: 541px;
+  height: 94px;
+  left: 690px;
+  top: 6690px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #000000;
+}
+
+.profile {
+  position: relative;
+  top: -80px;
+}
+
+.jeo {
+  width: 143px;
+  height: 33px;
+  left: 889px;
+  top: 6808px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.letalk {
+  width: 681px;
+  height: 54px;
+  position: absolute;
+  left: 203px;
+  top: 7258px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 54px;
+  text-align: center;
+  color: #000000;
+}
+
+input {
+  position: absolute;
+  width: 456px;
+  height: 0px;
+  left: 209px;
+  top: 7155px;
+  border: 2px solid rgba(0, 0, 0, 0.33);
+}
